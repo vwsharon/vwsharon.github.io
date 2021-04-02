@@ -1,0 +1,61 @@
+.mainDiv {
+
+    
+    height: 25%;
+    width: 100%;
+    border-collapse: collapse;
+    background-image: url("../../images/pic03.jpg");
+}
+
+.mainTable {
+
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    
+    
+}
+
+.mainRow {
+
+    height: 50%;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.mainCol {
+
+    height: 50%;
+    width:50%; 
+    border-collapse: collapse;   
+}
+
+.block_top_left {
+    height: 100%;
+    width:100%;
+    
+    text-align: center;
+    border-collapse: collapse;  
+      
+}
+
+.block_top_right {
+    height: 100%;
+    width:100%;
+    
+    text-align: center;    
+}
+
+.block_bottom_left {
+    height: 100%;
+    width:100%;
+    
+    text-align: center;    
+}
+
+.block_bottom_right {
+    height: 100%;
+    width:100%;
+    
+    text-align: center;    
+}
